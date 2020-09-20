@@ -1,5 +1,6 @@
 {
 	"name": "wds-fullstack-dev",
+	"homepage": "https://wds-fullstack-dev.herokuapp.com/",
 	"version": "1.0.0",
 	"description": "",
 	"main": "server.js",
